@@ -6,4 +6,4 @@ repos:
   - repo: https://github.com/pycqa/flake8
     rev: stable
     hooks:
-      - id: flake8
+      - id: flake8 
